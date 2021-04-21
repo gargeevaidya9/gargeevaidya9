@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gargeevaidya9
+- 👋 Hi, I’m Gargee Vaidya
 - 👀 I’m interested in Deep Learning, Computer Vision and have an evergreen love for Mathematics
 - 📫 Visit my website at : https://gargeevaidya18.wixsite.com/mysite
 
